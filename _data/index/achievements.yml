@@ -1,7 +1,6 @@
-- name: A1 
-  #i18n: jalpc
-  date: mmm. yyyy
+- name: >
+    Winner of Three gold medals for Securing top position in B.Tech CE throughout 8 sems; first 4 sems; And amongst CE, IT and EC
+  date: "2018"
 
-- name: A2
-  #i18n: jalpc
-  date: Jan. 2019
+- name: Letter of appreciation for work in CSI committee
+  date: 2017
