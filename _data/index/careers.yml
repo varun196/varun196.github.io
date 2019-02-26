@@ -13,7 +13,7 @@
   job:
     detail: Graduate Teaching Assistant
     #i18n: company_a_job
-  icon: fa-chalkboard-teacher
+  icon: fa-pencil
 
 - name:
     detail: Master of science in Compurter Science
@@ -47,7 +47,7 @@
   job:
     detail: Intern
     #i18n: company_a_job
-  icon: fa-space-shuttle
+  icon: fa-globe
 
 - name:
     detail: DB cube Technologies
@@ -77,4 +77,4 @@
   job:
     detail: Dharmsinh Desai University, Ahmedabad, India
     #i18n: company_a_job
-  icon: fa-book-open
+  icon: fa-book

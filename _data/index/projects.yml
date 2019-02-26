@@ -5,7 +5,7 @@
   #i18n: jalpc
   gh_user: varun196
   repo: tweet_analysis_kafka_spark
-  img: /static/assets/img/projects/python.png
+  img: /static/assets/img/projects/kafka.png
   desc: >
     Analyzed a tweet stream of 16 Million tweets and plotted the sentiment change over time. 
     Used Python, Kafka, Apache Spark
@@ -14,8 +14,11 @@
   #i18n: cpython
   gh_user: varun196
   repo: als_recommender_system
-  img: /static/assets/img/projects/python.png
-  desc: Developed a recommender system which recommends songs/movies/items based on the Alternating Least Squares algorithm.
+  img: /static/assets/img/projects/spark.png
+  desc: >
+    Developed a recommender system which recommends songs/movies/items based on the 
+    Alternating Least Squares algorithm.
+    Used Python, Apache Spark
 
 - name: expertiza
   #i18n: cpython
@@ -44,8 +47,19 @@
   #i18n: cpython
   gh_user: varun196
   repo: opinion_mining
-  img: /static/assets/img/projects/django.png
-  desc: Lexicon-Based sentiment analyzer to segregate given opinion dump.
+  img: /static/assets/img/projects/python.png
+  desc: >
+    Lexicon-Based sentiment analyzer to segregate given opinion dump.
+    Used python, NLTK
+
+- name: RESTful API and Clients 
+  #i18n: cpython
+  gh_user: varun196
+  repo: article
+  img: /static/assets/img/projects/c#.png
+  desc: >
+    Comprehensive blogging solution implemented via RESTful API serving clients in C# and web (JavaSript) via JSON.
+    Used C#, JavaScript, MySQL
 
 - name: bacui
   #i18n: cpython
@@ -55,3 +69,29 @@
   desc: >
     OSS contributions to bacui
     Used Ruby, Rails
+
+- name: Full-stack web development 
+  #i18n: cpython
+  gh_user: varun196
+  repo: online_hospital_management_system
+  img: /static/assets/img/projects/c#.png
+  desc: >
+    Three-tier architecture with Object-Relational Mapping (ORM). Allows automation of some and remote management of all functionalities required in a small-scale hospital
+    Used C#, JavaScript, MySQL
+
+- name: felicific web-site
+  #i18n: cpython
+  gh_user: varun196
+  repo: felicific_16
+  img: /static/assets/img/projects/felicific.png
+  desc: >
+    Felicific is DDU's annual techno-cultural festival.
+
+- name: Backend Development
+  #i18n: cpython
+  #gh_user: bacui
+  #repo: bacui
+  img: /static/assets/img/projects/php.png
+  desc: >
+    A PHP site which allows creation and management of elections online.
+    Used PHP, JavaScript
