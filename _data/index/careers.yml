@@ -4,16 +4,16 @@
     detail: Indian Space Research Organization
     #i18n: Indian Space Research Organization
   desc:
-    detail: 
-    Developed a web-based Geographical Information System from ground up.
-    Improved the design to be independent of base planet for the GIS and to enable extension.
-    Achieved hugely faster image load times by optimizing the rendering of basemaps
- 	  Application efficiently interfaces with both relational and spatial databases.
- 	  Used Python-Django,  OpenLayers, WorldwindWeb, Servlets, MySQL,  ShapeFiles, GeoTIFF and Geoserver
-    ##i18n: company_a_desc
+    detail: > 
+      Developed a web-based Geographical Information System from ground up. 
+      Improved the design to be independent of base planet for the GIS and to enable extension.
+      Achieved hugely faster image load times by optimizing the rendering of basemaps
+      Application efficiently interfaces with both relational and spatial databases.
+      Used Python-Django,  OpenLayers, WorldwindWeb, Servlets, MySQL,  ShapeFiles, GeoTIFF and Geoserver
+    #i18n: company_a_desc
   date:
     detail: Dec. 2017 - Apr. 2018
-    ##i18n: company_a_date
+    #i18n: company_a_date
   job:
     detail: Intern
     #i18n: company_a_job
