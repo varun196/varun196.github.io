@@ -61,15 +61,6 @@
     Comprehensive blogging solution implemented via RESTful API serving clients in C# and web (JavaSript) via JSON.
     Used C#, JavaScript, MySQL
 
-- name: bacui
-  #i18n: cpython
-  gh_user: bacui
-  repo: bacui
-  img: /static/assets/img/projects/rails.png
-  desc: >
-    OSS contributions to bacui
-    Used Ruby, Rails
-
 - name: Full-stack web development 
   #i18n: cpython
   gh_user: varun196
@@ -78,6 +69,15 @@
   desc: >
     Three-tier architecture with Object-Relational Mapping (ORM). Allows automation of some and remote management of all functionalities required in a small-scale hospital
     Used C#, JavaScript, MySQL
+
+- name: bacui
+  #i18n: cpython
+  gh_user: bacui
+  repo: bacui
+  img: /static/assets/img/projects/rails.png
+  desc: >
+    OSS contributions to bacui
+    Used Ruby, Rails
 
 - name: felicific website
   #i18n: cpython
