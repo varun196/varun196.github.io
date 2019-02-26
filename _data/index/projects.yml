@@ -79,7 +79,7 @@
     Three-tier architecture with Object-Relational Mapping (ORM). Allows automation of some and remote management of all functionalities required in a small-scale hospital
     Used C#, JavaScript, MySQL
 
-- name: felicific web-site
+- name: felicific website
   #i18n: cpython
   gh_user: varun196
   repo: felicific_16
