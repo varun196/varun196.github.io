@@ -1,29 +1,34 @@
 # careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
+# if you don't have language feature(language.yml is empty), ignore "#i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Indian Space Research Organization
+    #i18n: Indian Space Research Organization
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: 
+    Developed a web-based Geographical Information System from ground up.
+    Improved the design to be independent of base planet for the GIS and to enable extension.
+    Achieved hugely faster image load times by optimizing the rendering of basemaps
+ 	  Application efficiently interfaces with both relational and spatial databases.
+ 	  Used Python-Django,  OpenLayers, WorldwindWeb, Servlets, MySQL,  ShapeFiles, GeoTIFF and Geoserver
+    ##i18n: company_a_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Dec. 2017 - Apr. 2018
+    ##i18n: company_a_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Intern
+    #i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: DB cube Technologies
+    #i18n: company_b
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail:  Developed report and leave modules of an employee management system in python - django
+    #i18n: company_b_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: May 2016 - July 2016
+    #i18n: company_b_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Intern
+    #i18n: company_b_job
   icon: fa-plus-square
