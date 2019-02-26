@@ -29,6 +29,7 @@
   name: Achievements
   tpl: achievements.html
   css: project
+  
 # - id: blog
 #   i18n: nav.blog
 #   name: Blog

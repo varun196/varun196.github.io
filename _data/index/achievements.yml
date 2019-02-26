@@ -1,4 +1,7 @@
 - name: A1 
   #i18n: jalpc
-  Date: mmm. yyyy
-  
+  date: mmm. yyyy
+
+- name: A2
+  #i18n: jalpc
+  date: Jan. 2019
