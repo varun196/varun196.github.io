@@ -24,6 +24,11 @@
   tpl: projects.html
   css: project
 
+- id: achievements
+  i18n: nav.achievements
+  name: Achievements
+  tpl: achievements.html
+  css: project
 # - id: blog
 #   i18n: nav.blog
 #   name: Blog
