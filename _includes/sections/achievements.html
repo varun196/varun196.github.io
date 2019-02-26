@@ -7,10 +7,10 @@
     </div>
     <div class="row">
         {% for achievement in site.data.index.achievements %}
-            <div class="col-lg-8 m-t-lg m-b-lg wow zoomIn">
+            <div class="col-lg-8 wow zoomIn">
                 <p><span data-i18n="achievement.name">{{ achievement.name }}</span></p>
             </div>
-            <div class="col-lg-3 col-lg-offset-1  text-center m-t-lg m-b-lg wow zoomIn">
+            <div class="col-lg-3 col-lg-offset-1  text-center wow zoomIn">
                 <p><span data-i18n="achievement.date">{{ achievement.date }}</span></p>
             </div>
         {% endfor %}
