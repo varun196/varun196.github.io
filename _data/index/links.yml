@@ -2,13 +2,13 @@
 - last_name: Resume
   first_name:
   desc: 
-  website: 
-  email: 
+  website: https://drive.google.com/open?id=170Bv227nH4PSIwOG4wxlpmOnJ7U4IC50
+  #email: 
 
 - last_name: Hire
   first_name: Me
   desc: 
-  website: 
+  #website: varun196.github.io
   email: vshah@ncsu.edu
 
 # - last_name: LN
