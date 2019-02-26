@@ -5,20 +5,53 @@
   #i18n: jalpc
   gh_user: varun196
   repo: tweet_analysis_kafka_spark
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/projects/python.png
   desc: >
     Analyzed a twitter stream of 16 Million tweers and plotted the sentiments change over time. 
-    Used Kafka, Apache Spark
+    Used Python, Kafka, Apache Spark
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Recommender system using ALS
+  #i18n: cpython
+  gh_user: varun196
+  repo: als_recommender_system
+  img: /static/assets/img/projects/python.png
+  desc: Developed a recommender system which recommends songs/movies/items based on the Alternating Least Squares algorithm.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: expertiza
+  #i18n: cpython
+  gh_user: expertiza
+  repo: expertiza
+  img: /static/assets/img/projects/expertiza.png
+  desc: >
+    OSS contributions to expertiza
+    Used Ruby, Rails
+
+- name: full stack web development
+  #i18n: cpython
+  gh_user: varun196
+  repo: property_management
+  img: /static/assets/img/projects/rails.png
+  desc: Developed a house buying and selling system in Rails using MySQL and PostgreSQL and deployed on heroku.
+
+- name: analysis - React vs Vue
+  #i18n: cpython
+  #gh_user: varun196
+  #repo: property_management
+  img: /static/assets/img/projects/react_vue.jpeg
+  desc: Compared React and Vue as front-end frameworks
+
+- name: opinion mining
+  #i18n: cpython
+  gh_user: varun196
+  repo: opinion_mining
+  img: /static/assets/img/projects/django.png
+  desc: Lexicon-Based sentiment analyzer to segregate given opinion dump.
+
+- name: bacui
+  #i18n: cpython
+  gh_user: bacui
+  repo: bacui
+  img: /static/assets/img/projects/rails.png
+  desc: >
+    OSS contributions to bacui
+    Used Ruby, Rails
