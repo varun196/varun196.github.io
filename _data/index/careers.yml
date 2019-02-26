@@ -13,7 +13,7 @@
   job:
     detail: Graduate Teaching Assistant
     #i18n: company_a_job
-  icon: chalkboard-teacher
+  icon: fa-chalkboard-teacher
 
 - name:
     detail: Master of science in Compurter Science
@@ -28,7 +28,7 @@
   job:
     detail: North Carolina State University, NC, USA
     #i18n: company_a_job
-  icon: book
+  icon: fa-book
 
 - name:
     detail: Indian Space Research Organization
@@ -47,7 +47,7 @@
   job:
     detail: Intern
     #i18n: company_a_job
-  icon: space-shuttle
+  icon: fa-space-shuttle
 
 - name:
     detail: DB cube Technologies
@@ -61,7 +61,7 @@
   job:
     detail: Intern
     #i18n: company_b_job
-  icon: briefcase
+  icon: fa-briefcase
 
 - name:
     detail: Bachelor of Technology in Computer Engineering
@@ -77,4 +77,4 @@
   job:
     detail: Dharmsinh Desai University, Ahmedabad, India
     #i18n: company_a_job
-  icon: book-open
+  icon: fa-book-open
