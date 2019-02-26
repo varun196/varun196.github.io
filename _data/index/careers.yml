@@ -16,6 +16,21 @@
   icon: fa-plus-square
 
 - name:
+    detail: Master of science in Compurter Science
+    #i18n: Indian Space Research Organization
+  # desc:
+  #   detail: > 
+  #     Graduate teaching assistant for CSC-517 Object Oriented design and Development
+  #   #i18n: company_a_desc
+  date:
+    detail: Jan. 2019 - May 2019
+    #i18n: company_a_date
+  job:
+    detail: North Carolina State University, NC, USA
+    #i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Indian Space Research Organization
     #i18n: Indian Space Research Organization
   desc:
@@ -46,4 +61,20 @@
   job:
     detail: Intern
     #i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Bachelor of Technology in Computer Engineering
+    #i18n: Indian Space Research Organization
+  desc:
+    detail: > 
+      "GPA: 9.44 / 10"
+      Graduated at top of the class and won three gold medals.
+    #i18n: company_a_desc
+  date:
+    detail: Aug. 2014 - May 2018
+    #i18n: company_a_date
+  job:
+    detail: Dharmsinh Desai University, Ahmedabad, India
+    #i18n: company_a_job
   icon: fa-plus-square
