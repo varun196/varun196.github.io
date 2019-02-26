@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "#i18n" items
 - name:
+    detail: Graduate Teaching Assistant
+    #i18n: Indian Space Research Organization
+  desc:
+    detail: > 
+      Graduate teaching assistant for CSC-517 Object Oriented design and Development
+    #i18n: company_a_desc
+  date:
+    detail: Jan. 2019 - May 2019
+    #i18n: company_a_date
+  job:
+    detail: Graduate Teaching Assistant
+    #i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Indian Space Research Organization
     #i18n: Indian Space Research Organization
   desc:

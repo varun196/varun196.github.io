@@ -7,7 +7,7 @@
   repo: tweet_analysis_kafka_spark
   img: /static/assets/img/projects/python.png
   desc: >
-    Analyzed a twitter stream of 16 Million tweers and plotted the sentiments change over time. 
+    Analyzed a tweeter stream of 16 Million tweers and plotted the sentiments change over time. 
     Used Python, Kafka, Apache Spark
 
 - name: Recommender system using ALS
