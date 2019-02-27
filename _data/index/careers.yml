@@ -64,6 +64,20 @@
   icon: fa-briefcase
 
 - name:
+    detail: Computer Society Of India
+    #i18n: company_b
+  desc:
+    detail:  Technical head of computer society of india's branch in Dharmsinh Desai University
+    #i18n: company_b_desc
+  date:
+    detail: Aug 2016 - July 2017
+    #i18n: company_b_date
+  job:
+    detail: Technical Head
+    #i18n: company_b_job
+  icon: fa-briefcase
+
+- name:
     detail: Bachelor of Technology in Computer Engineering
     #i18n: Indian Space Research Organization
   desc:
