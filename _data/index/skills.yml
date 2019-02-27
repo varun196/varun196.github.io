@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C++, Python, Ruby, C#, Django, Rails, MySQL
-percentage: 90, 85, 75, 60, 80, 80, 90 
+aspects: C++, Python, Ruby, C#,JAVA, Django, Rails, MySQL
+percentage: 85, 75, 65, 50, 60, 80, 80, 90 
