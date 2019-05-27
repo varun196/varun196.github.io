@@ -1,70 +1,88 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "#i18n" items
+
 - name:
-    detail: Graduate Teaching Assistant
-    #i18n: Indian Space Research Organization
+    detail: Software Developer Intern
+    #i18n: 
   desc:
     detail: > 
-      Graduate teaching assistant for CSC-517 Object Oriented design and Development
+      Developing a Scalable, multi-threaded, modular framework for integrating GPS into existing software. 
+    #i18n: company_a_desc
+  date:
+    detail: May 2019 - Present
+    #i18n: company_a_date
+  job:
+    detail: Environmental Systems Research Institute (ESRI)<br> Redlands, CA
+    #i18n: company_a_job
+  icon: fa-briefcase
+
+- name:
+    detail: Graduate Teaching Assistant
+    #i18n: 
+  desc:
+    detail: > 
+      Graduate teaching assistant for CSC-517 - Object Oriented design and Development course
     #i18n: company_a_desc
   date:
     detail: Jan. 2019 - May 2019
     #i18n: company_a_date
   job:
-    detail: Graduate Teaching Assistant
+    detail: North Carolina State University<br> Raleigh, NC
     #i18n: company_a_job
   icon: fa-pencil
 
 - name:
     detail: Master of science in Compurter Science
-    #i18n: Indian Space Research Organization
+    #i18n: 
   # desc:
   #   detail: > 
-  #     Graduate teaching assistant for CSC-517 Object Oriented design and Development
+  #     
   #   #i18n: company_a_desc
   date:
-    detail: Aug. 2018 - Present
+    detail: Aug. 2018 - May 2020
     #i18n: company_a_date
   job:
-    detail: North Carolina State University, NC, USA
+    detail: North Carolina State University<br> Raleigh, NC
     #i18n: company_a_job
   icon: fa-book
 
 - name:
-    detail: Indian Space Research Organization
+    detail: Software Developer Intern
     #i18n: Indian Space Research Organization
   desc:
     detail: > 
-      Developed a web-based Geographical Information System from ground up. 
-      Improved the design to be independent of base planet for the GIS and to enable extension.
-      Achieved hugely faster image load times by optimizing the rendering of basemaps
-      Application efficiently interfaces with both relational and spatial databases.
-      Used Python-Django,  OpenLayers, WorldwindWeb, Servlets, MySQL,  ShapeFiles, GeoTIFF and Geoserver
+      <ul>
+        Developed a web-based Geographical Information System from ground up. <br>
+        Improved the design to be independent of base planet for the GIS and to enable extension.<br>
+        Achieved hugely faster image load times by optimizing the rendering of basemaps. <br>
+        Application efficiently interfaces with both relational and spatial databases. <br>
+        Used Python-Django,  OpenLayers, WorldwindWeb, Servlets, MySQL,  ShapeFiles, GeoTIFF and Geoserver <br>
+      </ul>
     #i18n: company_a_desc
   date:
     detail: Dec. 2017 - Apr. 2018
     #i18n: company_a_date
   job:
-    detail: Intern
+    detail: Indian Space Research Organization (ISRO)<br> Gujarat, India
     #i18n: company_a_job
   icon: fa-globe
 
 - name:
-    detail: DB cube Technologies
+    detail: Software Developer Intern
     #i18n: company_b
   desc:
-    detail:  Developed report and leave modules of an employee management system in python - django
+    detail: Developed report and leave modules of an employee management system in python - django
     #i18n: company_b_desc
   date:
     detail: May 2016 - July 2016
     #i18n: company_b_date
   job:
-    detail: Intern
+    detail: DB cube Technologies<br> Gujarat, India
     #i18n: company_b_job
   icon: fa-briefcase
 
 - name:
-    detail: Computer Society Of India
+    detail: Technical Head
     #i18n: company_b
   desc:
     detail:  Technical head of computer society of india's branch in Dharmsinh Desai University
@@ -73,7 +91,7 @@
     detail: Aug 2016 - July 2017
     #i18n: company_b_date
   job:
-    detail: Technical Head
+    detail: Computer Society Of India<br> Dharmsinh Desai University<br> Gujarat, India
     #i18n: company_b_job
   icon: fa-briefcase
 
@@ -82,13 +100,13 @@
     #i18n: Indian Space Research Organization
   desc:
     detail: > 
-      "GPA: 9.44 / 10"
+      'GPA: 9.44 / 10'<br>
       Graduated at top of the class and won three gold medals.
     #i18n: company_a_desc
   date:
     detail: Aug. 2014 - May 2018
     #i18n: company_a_date
   job:
-    detail: Dharmsinh Desai University, Ahmedabad, India
+    detail: Dharmsinh Desai University<br> Gujarat, India
     #i18n: company_a_job
   icon: fa-book
