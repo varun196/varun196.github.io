@@ -1,18 +1,17 @@
 # links section data
-- last_name: Resume
-  first_name:
-  desc: 
-  website: https://drive.google.com/open?id=170Bv227nH4PSIwOG4wxlpmOnJ7U4IC50
-  #email: 
 
-- last_name: Hire
-  first_name: Me
-  desc: 
-  #website: varun196.github.io
-  email: vshah@ncsu.edu
+# Edit the links.html directly.
 
-# - last_name: LN
-#   first_name: FN
-#   desc: COO
-#   website: https://github.com
-#   email: coo@google.com
+# - last_name: Resume on
+#   first_name: LinkedIn
+#   desc: <a href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a>
+#   #website: https://drive.google.com/open?id=170Bv227nH4PSIwOG4wxlpmOnJ7U4IC50
+#   #email: 
+
+# - last_name: Hire
+#   first_name: Me
+#   desc: 
+#   website: varun196.github.io
+#   email: vshah@ncsu.edu
+
+

@@ -1,8 +1,19 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Knowledge Graph from Unstructured text 
+  #i18n: 
+  gh_user: varun196
+  repo: knowledge_graph_from_unstructured_text
+  img: /static/assets/img/projects/Knowledge_graph.png
+  desc: >
+    Generated knowledge graphs from unstructured text.
+    Used Python, NLTK, Spacy, Stanford Core NLP, Graph Commons.
+
+
 - name: Tweets analysis with Spark Streaming 
-  #i18n: jalpc
+  #i18n: 
   gh_user: varun196
   repo: tweet_analysis_kafka_spark
   img: /static/assets/img/projects/kafka.png
@@ -40,7 +51,7 @@
   #i18n: cpython
   #gh_user: varun196
   #repo: property_management
-  img: /static/assets/img/projects/react_vue.jpeg
+  img: /static/assets/img/projects/React.png
   desc: Compared React and Vue as front-end frameworks
 
 - name: opinion mining
