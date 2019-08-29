@@ -6,7 +6,8 @@
     #i18n: 
   desc:
     detail: > 
-      Developing a Scalable, multi-threaded, modular framework for integrating GPS into existing software. 
+      Designed and developed a scalable, modular framework to enable any plugin to access the in-memory database. Designed and developed a plugin to enable real-time location support in ArcGIS Pro. Location plugin can handle multiple location sources. The entire code is thread safe and parallelizable. Followed Test-first approach while developing the software.
+ 
     #i18n: company_a_desc
   date:
     detail: May 2019 - Present

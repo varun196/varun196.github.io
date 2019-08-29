@@ -45,14 +45,16 @@
   gh_user: varun196
   repo: property_management
   img: /static/assets/img/projects/rails.png
-  desc: Developed a house buying and selling system in Rails using MySQL and PostgreSQL and deployed on heroku.
+  desc: >
+  Developed a house buying and selling system in Rails using MySQL and PostgreSQL and deployed on heroku.
 
 - name: analysis - React vs Vue
   #i18n: cpython
   #gh_user: varun196
   #repo: property_management
   img: /static/assets/img/projects/React.png
-  desc: Compared React and Vue as front-end frameworks
+  desc: >
+  Compared React and Vue as front-end frameworks
 
 - name: opinion mining
   #i18n: cpython
