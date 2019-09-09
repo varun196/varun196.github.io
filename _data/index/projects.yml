@@ -2,6 +2,14 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: Forward-only XML parser
+  #i18n: 
+  gh_user: varun196
+  repo: xml_parser
+  img: /static/assets/img/projects/c++.png
+  desc: >
+    Forward parsing XML parser in C++. Tested on 2 million line XML.
+
 - name: Knowledge Graph from Unstructured text 
   #i18n: 
   gh_user: varun196
