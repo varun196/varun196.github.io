@@ -63,6 +63,15 @@
   img: /static/assets/img/projects/React.png
   desc: >
     Compared React and Vue as front-end frameworks
+  
+- name: Adwords
+  #i18n: cpython
+  gh_user: varun196
+  repo: adwords
+  img: /static/assets/img/projects/python.png
+  desc: >
+    AdWords Placement Problem via Online Bipartite Graph Matching
+    Used python
 
 - name: opinion mining
   #i18n: cpython
